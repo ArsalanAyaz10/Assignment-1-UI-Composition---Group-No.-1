@@ -37,7 +37,7 @@ Recreation of a Gmail mobile UI screen from the given design repo.
 
 ---
 
-### 🔹 Part 4 - Recreated UI (Assigned): **Twitter UI Clone** (`twitter_ui/`)
+### 🔹 Part 4 - Recreated UI (Extra Work Done): **Twitter UI Clone** (`twitter_ui/`)
 Assigned screen: Screenshot #2.
 
 📸 **Screenshot:**
@@ -45,11 +45,11 @@ Assigned screen: Screenshot #2.
 
 ---
 
-### 🔹 BONUS - DataDex UI Recreation (`datadexui/`)
+### 🔹 BONUS - DataDex UI Recreation GIVEN (`datadexui/`)
 Additional bonus work – recreation of the DataDex UI screen.
 
 📸 **Screenshot:**
-![DataDex UI](datadexui/screenshots/screenshot.png)
+![DataDex UI](datadexui/screenshot.png)
 
 ---
 
